@@ -1,7 +1,4 @@
 {
-  "name": "Rehehe",
-  "version": "1.43",
-  "description": "ASd instance",
   "type": "module",
   "main": "index.js",
   "scripts": {
